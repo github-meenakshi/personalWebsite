@@ -1,4 +1,23 @@
+body {
+  background-color: #faebe0;
+}
 .image {
   width: 200px;
   height: 200px;
+}
+h3 {
+  color: #423f3e;
+}
+h2 {
+  color: #423f3e;
+}
+h1 {
+  color: #423f3e;
+}
+hr {
+  border-color: grey;
+  border-style: none;
+  border-width: 6px;
+  border-top-style: dotted;
+  width: 4%;
 }
